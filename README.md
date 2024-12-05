@@ -1,9 +1,9 @@
 # Steps running the application
 
-step 1. command --> git clone https://github.com/anshul52/new_react_task_assignment
-step 2. open the folder
-step 3. command -> npm i
-step 3. command -> npm run dev
+1.  command --> git clone https://github.com/anshul52/new_react_task_assignment
+2.  open the folder
+3.  command -> npm i
+4.  command -> npm run dev
 
 ---
 
